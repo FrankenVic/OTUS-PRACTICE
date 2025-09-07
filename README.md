@@ -1,2 +1,2 @@
-# OTUS-PRACTICE
+# OTUS-PRACTICE (DISCONTINUED)
 Labs and Homework
